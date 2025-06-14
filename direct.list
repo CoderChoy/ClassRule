@@ -2,3 +2,6 @@
 SRC-IP-CIDR,192.168.88.10/32,no-resolve
 # HomePod Mini
 SRC-IP-CIDR,192.168.88.23/32,no-resolve
+# All In One TV
+DOMAIN-SUFFIX,r.inews.qq.com
+DOMAIN-SUFFIX,myip.ipip.net
