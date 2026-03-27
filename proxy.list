@@ -1,5 +1,8 @@
 # IPTV
 DOMAIN,rptv.v1.mk
+DOMAIN,epg.112114.xyz
+DOMAIN,epg.51zmt.top
+DOMAIN,epg.erw.cc
 
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
