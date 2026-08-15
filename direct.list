@@ -5,3 +5,7 @@ SRC-IP-CIDR,192.168.88.23/32,no-resolve
 # All In One TV
 DOMAIN-SUFFIX,r.inews.qq.com
 DOMAIN-SUFFIX,myip.ipip.net
+# BG Connect
+DOMAIN-SUFFIX,bigo.sg
+DOMAIN-SUFFIX,gobgp.com
+DOMAIN-SUFFIX,oiscast.com
